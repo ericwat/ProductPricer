@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+        <AssemblyName>Pricer.Domain</AssemblyName>
+        <RootNamespace>Pricer.Domain</RootNamespace>
+    </PropertyGroup>
+
+</Project>

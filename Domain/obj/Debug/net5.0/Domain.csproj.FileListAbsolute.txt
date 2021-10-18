@@ -1,0 +1,12 @@
+C:\Users\P2788693\RiderProjects\Pricer\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+C:\Users\P2788693\RiderProjects\Pricer\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P2788693\RiderProjects\Pricer\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\P2788693\RiderProjects\Pricer\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Users\P2788693\RiderProjects\Pricer\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\P2788693\RiderProjects\Pricer\Domain\bin\Debug\net5.0\Pricer.Domain.deps.json
+C:\Users\P2788693\RiderProjects\Pricer\Domain\bin\Debug\net5.0\Pricer.Domain.dll
+C:\Users\P2788693\RiderProjects\Pricer\Domain\bin\Debug\net5.0\ref\Pricer.Domain.dll
+C:\Users\P2788693\RiderProjects\Pricer\Domain\bin\Debug\net5.0\Pricer.Domain.pdb
+C:\Users\P2788693\RiderProjects\Pricer\Domain\obj\Debug\net5.0\Pricer.Domain.dll
+C:\Users\P2788693\RiderProjects\Pricer\Domain\obj\Debug\net5.0\ref\Pricer.Domain.dll
+C:\Users\P2788693\RiderProjects\Pricer\Domain\obj\Debug\net5.0\Pricer.Domain.pdb

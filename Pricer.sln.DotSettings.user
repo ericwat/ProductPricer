@@ -1,0 +1,14 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=343369ad_002Dcd8d_002D4733_002Dbdc7_002Dc14c8ea06962/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="InitShouldContainSpecifiedAmount" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::E6A83547-9FD2-476D-83D3-FA619986A91E::net5.0::Pricer.Domain.UnitTests.Costs.FixedCostUnitTest.InitShouldContainSpecifiedAmount&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=39355d42_002D8d88_002D4452_002Db478_002D8096dec4292a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from Solution" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7783d0b0_002D8f13_002D4766_002Dbd9e_002Dd55fa3a598fc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="InitShouldContainSpecifiedAmount #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::E6A83547-9FD2-476D-83D3-FA619986A91E::net5.0::Pricer.Domain.UnitTests.Costs.FixedCostUnitTest.InitShouldContainSpecifiedAmount&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
